@@ -1,2 +1,2 @@
 # tribulations
-triasl, errors, and successes of my tribulations 
+trials, errors, and successes of my tribulations 
