@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Staeting on a new path"
+title: "Starting on a new path"
 date: 2019-07-12
+featured-img: tribulations
 ---
 
-Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com)s. 
+Well. Finally got around to putting this website together. - powered by [Jekyll](http://jekyllrb.com)s. 
