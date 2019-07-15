@@ -1,13 +1,11 @@
 Personnal website based on Sleek
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
-
 A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
 
 You can find the source code for the Jekyll new theme at:
 [sleek](https://github.com/janczizikow/sleek)
 
-# Features
+Features
 
 * Compatible with [Github Pages](https://pages.github.com/)
 * Minimal, responsive and speed performance optimized
