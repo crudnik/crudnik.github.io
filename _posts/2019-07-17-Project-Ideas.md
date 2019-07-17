@@ -2,6 +2,7 @@
 layout: post
 title: Project Ideas
 summary: Here is a list of the projects I want to tackle at some point.
+featured-img: project-list
 categories: Projects
 ---
 
