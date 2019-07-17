@@ -16,11 +16,11 @@ So here we go, let's just do that.
 ## My Projects
 
 1. ~~building my own blog~~
-⋅⋅⋅It's not perfect, but I did it anyway :)
+ It's not perfect, but I did it anyway :)
 
 1. Can I predict the price of a house in a paticular city from his description and some quantitive data such as sqm?
 
-⋅⋅⋅As I see it right now, I'll first try to find some easily accessible data, and start from there.
+ As I see it right now, I'll first try to find some easily accessible data, and start from there.
 
 2. To be continued...
 
