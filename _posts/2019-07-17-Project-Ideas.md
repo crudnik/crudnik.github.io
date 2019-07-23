@@ -23,7 +23,10 @@ So here we go, let's just do that.
 
    As I see it right now, I'll first try to find some easily accessible data, and start from there.  
 
-2. To be continued...
+2. Do a chatbot based on my whatsapp Engineering School group
+
+3. to be continued...
+
 
 
 <a name="skills"/>
