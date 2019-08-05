@@ -32,7 +32,7 @@ So here we go, let's just do that.
 <a name="skills"/>
 ## Technical (or not) skills
 
-1. Tensorflow 2.0
+1. TensorFlow 2.0
 
 2. GANs
 
