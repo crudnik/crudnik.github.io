@@ -36,6 +36,6 @@ So here we go, let's just do that.
 
 2. GANs
 
-3. ?
+3. triing out the TCAV to test the relevance of a concept
 
 
