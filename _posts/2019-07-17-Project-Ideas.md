@@ -36,6 +36,6 @@ So here we go, let's just do that.
 
 2. GANs
 
-3. triing out the TCAV to test the relevance of a concept
+3. trying out the TCAV to test the relevance of a concept [article](https://towardsdatascience.com/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking-229f783300)
 
 
